@@ -19,6 +19,6 @@ int b = Convert.ToInt32(Console.ReadLine());
  }
  else
 {
-    Console.Write("ввод разных чисел");
+    Console.WriteLine("ввод разных чисел");
 }
 
