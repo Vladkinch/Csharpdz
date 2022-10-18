@@ -4,9 +4,9 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("введите второе число:");
 int b = Convert.ToInt32(Console.ReadLine());
 
- if(a !=b)
+ if( a !=b )
  {
-    if(a>b)
+    if( a > b )
     {
         Console.WriteLine("min: + b");
         Console.WriteLine("max: + a");
